@@ -1,0 +1,16 @@
+D:\ESTUDO\DIO_Bootcamp_MRV_Fullstack\Proj_Menu\Menu_Dio\bin\Debug\net5.0\Menu_Dio.exe
+D:\ESTUDO\DIO_Bootcamp_MRV_Fullstack\Proj_Menu\Menu_Dio\bin\Debug\net5.0\Menu_Dio.deps.json
+D:\ESTUDO\DIO_Bootcamp_MRV_Fullstack\Proj_Menu\Menu_Dio\bin\Debug\net5.0\Menu_Dio.runtimeconfig.json
+D:\ESTUDO\DIO_Bootcamp_MRV_Fullstack\Proj_Menu\Menu_Dio\bin\Debug\net5.0\Menu_Dio.runtimeconfig.dev.json
+D:\ESTUDO\DIO_Bootcamp_MRV_Fullstack\Proj_Menu\Menu_Dio\bin\Debug\net5.0\Menu_Dio.dll
+D:\ESTUDO\DIO_Bootcamp_MRV_Fullstack\Proj_Menu\Menu_Dio\bin\Debug\net5.0\ref\Menu_Dio.dll
+D:\ESTUDO\DIO_Bootcamp_MRV_Fullstack\Proj_Menu\Menu_Dio\bin\Debug\net5.0\Menu_Dio.pdb
+D:\ESTUDO\DIO_Bootcamp_MRV_Fullstack\Proj_Menu\Menu_Dio\obj\Debug\net5.0\Menu_Dio.csproj.AssemblyReference.cache
+D:\ESTUDO\DIO_Bootcamp_MRV_Fullstack\Proj_Menu\Menu_Dio\obj\Debug\net5.0\Menu_Dio.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESTUDO\DIO_Bootcamp_MRV_Fullstack\Proj_Menu\Menu_Dio\obj\Debug\net5.0\Menu_Dio.AssemblyInfoInputs.cache
+D:\ESTUDO\DIO_Bootcamp_MRV_Fullstack\Proj_Menu\Menu_Dio\obj\Debug\net5.0\Menu_Dio.AssemblyInfo.cs
+D:\ESTUDO\DIO_Bootcamp_MRV_Fullstack\Proj_Menu\Menu_Dio\obj\Debug\net5.0\Menu_Dio.csproj.CoreCompileInputs.cache
+D:\ESTUDO\DIO_Bootcamp_MRV_Fullstack\Proj_Menu\Menu_Dio\obj\Debug\net5.0\Menu_Dio.dll
+D:\ESTUDO\DIO_Bootcamp_MRV_Fullstack\Proj_Menu\Menu_Dio\obj\Debug\net5.0\ref\Menu_Dio.dll
+D:\ESTUDO\DIO_Bootcamp_MRV_Fullstack\Proj_Menu\Menu_Dio\obj\Debug\net5.0\Menu_Dio.pdb
+D:\ESTUDO\DIO_Bootcamp_MRV_Fullstack\Proj_Menu\Menu_Dio\obj\Debug\net5.0\Menu_Dio.genruntimeconfig.cache
